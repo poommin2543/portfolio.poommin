@@ -7,5 +7,5 @@ export const ADDRESS = 'Rajkot, Gujrat'
 export const EMAIL_ID = 'poommin2543@gmail.com';
 export const TWITTER_ID = 'Vk_javiya';
 export const FRONT_PAGE_NAME = 'Poommin Phinphimai';
-export const FRONT_PAGE_DESC = 'A Full-Stack Web Developer & Open Source Contributor.I like to build things for web and solving problems.'
+export const FRONT_PAGE_DESC = 'Programming  & Support Manufacturing Design Department.I like to build things solving problems.'
 

@@ -1,25 +1,14 @@
 const workHistory = [
     {
-        companyName : 'Company Name 1',
-        role: 'SDE Intern',
-        duration: "July'21 – Oct'21",
+        companyName : 'sony technology (thailand) co. ltd',
+        role: 'cooperative student',
+        duration: "Sep'21 – March'22",
         workDes: [
-            'Build So and so on for xyz.',
-            'Designed and developed REST API’s to integrate user interaction with Twitter and Linkedin on server.',
+            'Manufacturing Design Department.',
+            ' Design and developed programs to support the production process.',
         ],
-        exposer: ["React", "Redux Saga ", "NodeJs", "ExpressJs", "MongoDB", "Heroku", "Twitter API’s", "LinkedIn API"] ,
-        link: 'https://google.com/',
-    },
-    {
-        companyName: 'Company Name 2',
-        role: 'SDE Intern',
-        duration: "Mar'21 – Apr'21",
-        workDes: [
-            'Developed full stack B2B admin portal web application using Reactjs,Mongodb, Nodejs.',
-            'Designed and developed REST APIs to increase user interaction on the server.',
-        ],
-        exposer: ["React ", "NodeJs", "MongoDB" , "ContextAPI"],
-        link: 'https://google.com/',
+        exposer: ["C#", "Python"] ,
+        link: 'https://www.sony.co.th/microsite/companyoutline/th/',
     },
     
 ];
